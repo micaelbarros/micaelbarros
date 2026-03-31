@@ -1,4 +1,8 @@
-Sou Cristão, eu estou cursando Sistemas para Internet na UNICAP, amo aprender novas coisas, estou estudando java, html, css e amo pizza
+Sou estudante de Sistemas para Internet na UNICAP, apaixonado por tecnologia, desenvolvimento e aprendizado contínuo.
+
+Como cristão, busco viver princípios como disciplina, constância e integridade em tudo que faço — inclusive na minha jornada profissional. Acredito que a tecnologia pode ser uma ferramenta poderosa para gerar impacto positivo e resolver problemas reais.
+
+Tenho grande interesse em programação e estou sempre em busca de aprender novas linguagens e aprimorar minhas habilidades. Gosto de entender não apenas como as coisas funcionam, mas como posso utilizá-las para criar soluções eficientes e bem estruturadas.
 
 
 ## 🌐 Socials:
